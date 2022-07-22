@@ -8,3 +8,5 @@
   - Flexbox вёрстка
   - Grid layout
   - Responsive вёрстка
+
+https://badstandup.github.io/russian-travel/index.html
