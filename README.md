@@ -1,4 +1,4 @@
-#Путешествие по России
+# Путешествие по России
 
 ### Проектная работа третьего спринта в Яндекс.Пракикуме
 
@@ -8,3 +8,5 @@
   - Flexbox вёрстка
   - Grid layout
   - Responsive вёрстка
+
+https://badstandup.github.io/russian-travel/index.html
