@@ -1,7 +1,7 @@
 .cover {
+  max-width: 1154px;
   margin: 66px auto 0;
   transition: .2s ease-in-out;
-  max-width: 1154px;
 }
 
 @media screen and (min-width: 768px) {

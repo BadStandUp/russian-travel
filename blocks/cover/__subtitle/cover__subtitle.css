@@ -3,8 +3,9 @@
   line-height: 16px;
   font-weight: normal;
   color: white;
-  margin: 16px auto 0;
   transition: .2s ease-in-out;
+  width: 360px;
+  margin: 18px auto 0;
 }
 
 @media screen and (min-width: 768px) {
