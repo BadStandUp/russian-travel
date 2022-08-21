@@ -9,4 +9,4 @@
   - Grid layout
   - Responsive вёрстка
 
-https://badstandup.github.io/russian-travel/index.html
+* [Ссылка на GH Pages](https://badstandup.github.io/russian-travel/index.html)
